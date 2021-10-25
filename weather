@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/35d50128d75/miryang-si/" data-label_1="MIRYANG-SI" data-label_2="WEATHER" data-theme="beige" data-basecolor="rgba(241, 238, 229, 0)" data-textcolor="#b0c6cd" data-highcolor="#b0c6cd" data-lowcolor="#b0c6cd" data-suncolor="#b0c6cd" data-mooncolor="#b0c6cd" data-cloudcolor="#b0c6cd" data-cloudfill="rgba(241, 238, 229, 0)" data-raincolor="#b0c6cd" data-snowcolor="#b0c6cd" >MIRYANG-SI WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
